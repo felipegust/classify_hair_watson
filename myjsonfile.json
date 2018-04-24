@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "DefaultCustomModel_149238511",
+          "name": "Default Custom Model",
+          "classes": [
+            {
+              "class": "Loiro_m",
+              "score": 0.92
+            }
+          ]
+        }
+      ],
+      "image": "filename.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 2
+}
